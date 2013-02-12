@@ -2,11 +2,7 @@
  * widerstand.c
  *
  *  Created on: Dec 20, 2010
-*      Author: KopfKopfKopfAffe
- *
- *
- *
- *      SOMEHOW WORKS, IT HAS TIMEOUTS AND THE OUTPUT ONLY WORKS IN THE INTERRUPT. FUNNY...
+ *      Author: KopfKopfKopfAffe
  *
  */
 
